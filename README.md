@@ -4,7 +4,7 @@
 [![Bundle size](https://img.shields.io/bundlephobia/minzip/build_tools?label=bundle%20size)](https://bundlephobia.com/package/build_tools)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./CODE_OF_CONDUCT.md)
 
-# build_tools
+# spycer
 
 Simple Firebase authentication for all Next.js rendering strategies.
 
